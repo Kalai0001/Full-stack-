@@ -2,7 +2,10 @@
     margin: 0;
     padding: 0;
     /* align-items: center; */
-    justify-content: center;
+    /* justify-content: center; */
+}
+#a{
+    margin-left: 35%;
 }
 .a1,.p{
     border: 10px solid black;
