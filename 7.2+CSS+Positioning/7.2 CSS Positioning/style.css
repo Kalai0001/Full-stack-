@@ -1,0 +1,18 @@
+.a{
+    margin: 200px;
+    margin-left: 40%;
+    border: 2px;
+    height: 300px;
+    width: 500px;
+    background-color: blue;
+}
+#a1{
+    border: 5px;
+    border-radius: 100px;
+    margin-left: 250px;
+    margin-top: 150px;
+    background-color: red;
+    position: absolute;
+    height: 200px;
+    width: 200px;
+}
