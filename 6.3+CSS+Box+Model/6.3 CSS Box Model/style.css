@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* align-items: center; */
+    justify-content: center;
+}
+.a1,.p{
+    border: 10px solid black;
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+    /* top: 10px; */
+    /* bottom: 10px; */
+    background-color: cadetblue;
+}
+.a2,.p{
+    border: 8px solid black;
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+    /* margin-top:2px; */
+    margin-left: 250px;
+    bottom: 10px;
+    background-color: gold;
+}
+.a3,.p{
+    border: 8px solid black;
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+    /* margin-top:2px; */
+    /* margin-left: 250px; */
+    bottom: 10px;
+    background-color: indianred;
+}
